@@ -161,6 +161,11 @@ MonoBehaviour:
   - {fileID: 4730175232827801341, guid: d401cd69e43ed27419e5de304e4b1c72, type: 3}
   enemyCount: 0
   waveNumber: 1
+  bossPrefab: {fileID: 4976297948683702590, guid: e7a8ff29693c27742836fde49586661a, type: 3}
+  miniEnemyPrefabs:
+  - {fileID: 5696617203426519327, guid: 7d1eb277478a7a548872fb8261345a46, type: 3}
+  - {fileID: 5669845956150289894, guid: ed40fa1aa18ee9840a06f539fa49341b, type: 3}
+  bossRound: 2
 --- !u!4 &234678274
 Transform:
   m_ObjectHideFlags: 0
